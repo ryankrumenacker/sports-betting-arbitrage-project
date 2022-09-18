@@ -13,3 +13,5 @@ The **Live Sports Odds API** is a free, open source API that tracks the current 
 All of the code for this program is included in the **Arbitrage.ipynb** file. Each chunk of code is commented so that the user knows exactly what is happening in each step of the program. Please note that the API does not update instantaneously, and since all books are constantly altering their odds as to eliminate such opportunities for bettors, the program will occasionally output odds that are slightly inaccurate due to the fact that they have already been updated on the book's website. 
 
 The **Books.txt** file contains a list of all of the US bookmakers that are supported by the **Live Sports Odds API** as of 3/17/22 for reference. This information is also on the documentation website for the API listed above.
+
+NOTE: In order to use this project, you will need to acquire an API key from the website linked above. It is entirely free. Once you have done this, add your API key to the **API_KEY.txt** file.
