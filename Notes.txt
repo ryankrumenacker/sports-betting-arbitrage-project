@@ -1,0 +1,22 @@
+Notes:
+
+US Bookmakers:
+(1) Barstool Sportsbook : barstool
+(2) BetOnline.ag : betonlineag
+(3) Betfair Exchange: betfair
+(4) BetMGM : betmgm
+(5) BetRivers : betrivers
+(6) BetUS : betus
+(7) Bovada : bovada
+(8) DraftKings : draftkings
+(9) FanDuel : fanduel
+(10) FOX Bet : foxbet
+(11) GTbets : gtbets
+(12) Intertops : intertops (Everygame)
+(13) MyBookie.ag : mybookieag
+(14) PointsBet (US) : pointsbetus
+(15) SugarHouse : sugarhouse
+(16) TwinSpires : twinspires
+(17) Unibet : unibet
+(18) William Hill (Caesars) : williamhill_us
+(19) WynnBET : wynnbet
